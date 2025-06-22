@@ -34,10 +34,10 @@
 
 <br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" style="width: 52%" src="https://github-readme-stats.vercel.app/api?username=Eze-Medina&theme=react&show_icons=true&hide_border=true&count_private=true" alt="kiugan" /></p>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
